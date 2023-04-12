@@ -1,1 +1,2 @@
-
+Add another element to the user table allowing to specify what ttype of account ie premuim, and allow premium account to make multiple playlists.
+Maybe implement multiple playlists by adding a table for a list of playlists.
